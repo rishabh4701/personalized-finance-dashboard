@@ -84,13 +84,10 @@ MongoDB (Indexed Collections)
 
 ## 🖥️ Dashboard Preview
 
-> Add screenshots here (recommended):
 - Cashflow summary cards
 - Category-wise spending chart
 - EMI list
 - Budget alerts
-
-*(Screenshots greatly improve recruiter engagement)*
 
 ---
 

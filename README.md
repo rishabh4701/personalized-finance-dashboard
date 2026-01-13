@@ -101,7 +101,7 @@ cd personalized-finance-dashboard
 ```
 ### 2️⃣ Backend Setup
 ```bash
-cd backend
+cd finance-dashboard-backend
 npm install
 ```
 Create a .env file:
@@ -118,7 +118,7 @@ npm run dev
 
 ### 3️⃣ Frontend Setup
 ```bash
-cd ../frontend
+cd finance-dashboard-frontend/vite-project
 npm install
 npm run dev
 ```

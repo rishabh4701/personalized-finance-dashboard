@@ -95,7 +95,7 @@ MongoDB (Indexed Collections)
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/personalized-finance-dashboard.git
+git clone https://github.com/<rishabh4701>/personalized-finance-dashboard.git
 cd personalized-finance-dashboard
 
 ```
